@@ -1,0 +1,8 @@
+{
+  "name": " Price Guardian Pro",
+  "description": "Smart shopping assistant for Bangladesh with real-time price tracking, local shop finding, and bank offer analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
